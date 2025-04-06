@@ -1,4 +1,4 @@
-# Frontend Mentor - FAQ accordion Solution [[Live Here](https://browser-extension-manager-ui.vercel.app/)]
+# Frontend Mentor - FAQ accordion Solution [[Live Here](https://faq-accordion-rho-sable.vercel.app/)]
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz).
 
@@ -10,8 +10,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/AKR2803/faq-accordion]
+- Live Site URL: [https://faq-accordion-rho-sable.vercel.app/]
 
 ### Built with
 
